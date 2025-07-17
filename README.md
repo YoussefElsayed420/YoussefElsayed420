@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Youssef Elsayed
 
-<!--
-**YoussefElsayed420/YoussefElsayed420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent CS Graduate from El Shorouk Academy  
+🤖 AI/ML Enthusiast | Data Scientist | Real-World Problem Solver  
+🌍 Alexandria, Egypt
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 My Skill Set:
+- **Languages**: Python, Java, C++, HTML, CSS, Javascript, SQL
+- **AI/ML**: Scikit-learn, XGBoost, KNN, CNN, TensorFlow, Deep Learning
+- **Data**: Pandas, NumPy, Matplotlib, Seaborn
+- **Web/API**: FastAPI, REST APIs
+- **Cloud**: Microsoft Azure
+- **Tools**: Git/GitHub, VS Code, Jupyter, Postman
+
+---
